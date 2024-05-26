@@ -1,2 +1,2 @@
 
-export const nombre = "pablo"
+//export const nombre = "pablo"
