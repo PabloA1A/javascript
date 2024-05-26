@@ -5,4 +5,4 @@
 
 //export function printBrowser(element,data) {
 //    element.innerHtml = data;
-//}//
+//}
