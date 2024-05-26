@@ -18,6 +18,7 @@ Return value as boolean values, true for the string to contains "English", false
 // y si la palabra no existe
 // entonces devolvemos false 
 
+
 export function containsEnglish(str) {
    return str.toLowerCase().includes("english");
 }
