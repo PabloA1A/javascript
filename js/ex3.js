@@ -19,10 +19,10 @@ Return value as boolean values, true for the string to contains "English", false
 // entonces devolvemos false 
 
 
-//export function containsEnglish(str) {
-//   return str.toLowerCase().includes("english");
-//}
+export function containsEnglish(str) {
+   return str.toLowerCase().includes("english");
+}
 
-//console.log(containsEnglish("I am learning English.")); 
-//console.log(containsEnglish("I am learning spanish."));
-//console.log(containsEnglish("I am learning ENGLISH.")); 
+console.log(containsEnglish("I am learning English.")); 
+console.log(containsEnglish("I am learning spanish."));
+console.log(containsEnglish("I am learning ENGLISH.")); 
